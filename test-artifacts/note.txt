@@ -1,0 +1,2 @@
+Disposable note for tool isolation PR test on 2026-08-13.
+This file can be removed after validation.
